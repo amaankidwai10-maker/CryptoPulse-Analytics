@@ -1,6 +1,3 @@
-# CryptoPulse-Analytics
-A complete cryptocurrency market intelligence solution leveraging live API data, Python-based ETL processing, SQLite storage, and Power BI analytics.
-
 # CryptoPulse Analytics
 
 A complete end-to-end cryptocurrency analytics project that extracts real-time market data from the CoinGecko API, processes and transforms the data using Python and Pandas, stores it in SQLite, and visualizes key market insights through an interactive Power BI dashboard.

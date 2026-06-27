@@ -82,7 +82,7 @@ Power BI Dashboard
 
 ## Dashboard Preview
 
-![Dashboard Preview](screenshots/Dashboard.png)
+![Dashboard Preview](screenshot/Dashboard.png)
 
 ---
 
